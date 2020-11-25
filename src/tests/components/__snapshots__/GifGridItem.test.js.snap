@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba del componente GifGridItem Debe mostrar el componente correctamente 1`] = `
+<div
+  className="card-gif animate__animated animate__fadeIn"
+>
+  <img
+    alt="naruto shippuden GIF"
+    src="https://media3.giphy.com/media/4gsjHZMPXdlGo/giphy.gif?cid=334fdb12wgy0f90xni318my9wi58q34pggrthsczwekvl0si&amp;rid=giphy.gif"
+  />
+  <p>
+    naruto shippuden GIF
+  </p>
+</div>
+`;
